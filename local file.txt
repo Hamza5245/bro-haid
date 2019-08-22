@@ -1,2 +1,0 @@
-git pull easier master --allow-unrelated-histories
-
